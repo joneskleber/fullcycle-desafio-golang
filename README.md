@@ -52,7 +52,7 @@ Você deve receber a mensagem `Full Cycle Rocks !!!` em seu terminal.
 
 ### Desenvolvido por
 
-[![](https://contrib.rocks/image?repo=joneskleber/joneskleber)](https://github.com/joneskleber)
+[![](https://contrib.rocks/image?repo=joneskleber/joneskleber)](https://linkedin.com/in/joneskleber/)
 
 ### Licença
 
