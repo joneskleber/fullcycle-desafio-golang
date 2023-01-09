@@ -5,7 +5,8 @@ WORKDIR /app
 
 ADD . /app
 
-RUN go build -o /app/hello .
+#RUN go build -o /app/hello .
+RUN GOOS=linux go build -o /app/hello -ldflags='-s -w' .
 
 FROM scratch
 
